@@ -2,14 +2,14 @@
   "app_name": "Test App",
   "app_id": "test.app",
   "version": "1.0.1",
-  "file": "install.cmd",
-  "file_source": "",
-  "file_hash": "584a331fd6b02dcb1ecbe2eba731f609a2e1e3dac0bb73ae998dfad14c309a77",
+  "file": "installer.cmd",
+  "file_source": "https://raw.githubusercontent.com/generalBenmalek/testings/main/installer.cmd",
+  "file_hash": "56a79f3b115448072387c2480044bfa2cf8f90e4f5fddd8c943b4e051b81f80b",
   "update_urls": [
     "https://raw.githubusercontent.com/generalBenmalek/testings/main/manifest.json"
   ],
   "public_key": "AEGqRNLXW/2SPQcnVl9f52H9TjH4MHQKnXHObgerwXk=",
   "previous_key": null,
   "key_signature": null,
-  "signature": "EvwQAcDqGaBAqlZel/sglaUkLYwagMI27uxfoyY+AYEZ1zDftIEe3s6tWh6FZX9NfM+z0jGOJKilOHewWwsNAQ=="
+  "signature": "6d5zmYbv3jwfut0fl4tbRCb1MiDRr2V3Xuj94qcdmjHkNBMW6MQN2ISW6WL7TRNXzwXYnaRGHTLnFHuYWUZnAQ=="
 }

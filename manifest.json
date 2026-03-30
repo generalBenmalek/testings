@@ -1,0 +1,15 @@
+{
+  "app_name": "Test App",
+  "app_id": "test.app",
+  "version": "1.0.0",
+  "file": "install.cmd",
+  "file_source": "",
+  "file_hash": "584a331fd6b02dcb1ecbe2eba731f609a2e1e3dac0bb73ae998dfad14c309a77",
+  "update_urls": [
+    "https://raw.githubusercontent.com/generalBenmalek/testings/main/manifest.json"
+  ],
+  "public_key": "AEGqRNLXW/2SPQcnVl9f52H9TjH4MHQKnXHObgerwXk=",
+  "previous_key": null,
+  "key_signature": null,
+  "signature": "EvwQAcDqGaBAqlZel/sglaUkLYwagMI27uxfoyY+AYEZ1zDftIEe3s6tWh6FZX9NfM+z0jGOJKilOHewWwsNAQ=="
+}
